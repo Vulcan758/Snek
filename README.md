@@ -1,4 +1,4 @@
-# SnekAI
-Web based snake game with reinforcement learning used
+# Snek
+Web based snake game 
 
-Lots of help from youtubers deKay Arts and Coding With Adam
+Lots of help from youtuber Coding With Adam
